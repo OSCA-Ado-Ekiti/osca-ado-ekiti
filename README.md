@@ -9,7 +9,7 @@
 
 ## Join our community Github organisation 
 
-Create an issue [here](https://github.com/OSCA-Ado-Ekiti/osca-ado-ekiti) and an invitation will be sent to your email automatically to join the github organisation page
+Create an issue [here](https://github.com/OSCA-Ado-Ekiti/osca-ado-ekiti/issues) and an invitation will be sent to your email automatically to join the github organisation page
 
 
 ##### We are doing something different.
